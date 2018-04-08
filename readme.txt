@@ -1,0 +1,1 @@
+这是一个简单的spring cloud注册中心demo，使用eureka框架
